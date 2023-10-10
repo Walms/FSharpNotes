@@ -1,6 +1,6 @@
 # The Nuances of F# Pattern Matching: A Specific Case Study
 
-Hello F# enthusiasts! Today, we're diving deep into a specific scenario in F# pattern matching that can be a common pitfall for developers, both new and experienced. We'll explore how a seemingly specific pattern match can unintentionally become a catch-all, leading to unexpected behavior.
+Hello F# enthusiasts! Today, I hit something I didn't expect with F# pattern matching. A seemingly specific pattern match became, unintentionally a catch-all, leading to unexpected behavior.
 
 ## Setting the Stage: Type-Safe Keypress Handling
 
